@@ -1,0 +1,22 @@
+.first {
+    position: relative;
+    margin-right: 30px;
+    padding: 25px 0;
+    color: #000000;
+    font-size: 15px;
+    text-transform: uppercase;
+    outline: none;
+    text-decoration: none;
+}
+
+.boximage{
+    height: 550px;
+    width: 750px;
+}
+
+
+.about{
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-around;
+}
